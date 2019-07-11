@@ -46,6 +46,10 @@ overview please visit the official project page:
 > DDoS attacks you are free to use any tools or scripts to hack your
 > Juice Shop instance on Heroku!
 
+### Deploy on Google Cloud Run
+
+1. [![Run on Google Cloud](https://storage.googleapis.com/cloudrun/button.svg)](https://console.cloud.google.com/cloudshell/editor?shellonly=true&cloudshell_image=gcr.io/cloudrun/button&cloudshell_git_repo=https://github.com/bkimminich/juice-shop.git)
+
 ### From Sources
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/bkimminich/juice-shop.svg)
